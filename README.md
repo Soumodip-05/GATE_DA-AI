@@ -32,6 +32,7 @@ This repository is aimed to help **GATE aspirants and students preparing for com
 A suggested structure for your repo (you can adapt as per your subjects):
 
 Syllabus of GATE DA paper: [Download](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/DA_2026_Syllabus.pdf)
+
 GATE-Preparation-Resources:
 1. Probability and Statistics
 2. Linear Algebra
