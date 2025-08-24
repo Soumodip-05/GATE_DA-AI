@@ -46,11 +46,11 @@ Syllabus of GATE DA paper: https://github.com/Soumodip-05/GATE_DA-AI/blob/main/D
 ## Previous Years Question Paper & Answer Key
 PYQs
 1. 2024
-   - [Question Paper](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/GATE%20DA%202024%20Paper.pdf)
-   - [Answer Key](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/GATE%20DA%202024%20Answer%20Key.pdf)
+   - [Question Paper](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/PYQs/GATE%20DA%202024%20Paper.pdf)
+   - [Answer Key](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/PYQs/GATE%20DA%202024%20Answer%20Key.pdf)
 3. 2025
-   - [Question Paper](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/GATE%20DA%202025%20Paper.pdf)
-   - [Answer Key](https://github.com/Soumodip-05/GATE_DA-AlI/bob/main/GATE%20DA%202025%20Answer%20Key.pdf)
+   - [Question Paper](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/PYQs/GATE%20DA%202025%20Paper.pdf)
+   - [Answer Key](https://github.com/Soumodip-05/GATE_DA-AlI/bob/main/PYQs/GATE%20DA%202025%20Answer%20Key.pdf)
 
 
 ## Who Can Use This?
