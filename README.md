@@ -1,14 +1,13 @@
 # GATE Preparation Resources 📚
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name?color=blue&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Soumodip-05/GATE_DA-AI?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Soumodip-05/GATE_DA-AI?color=blue&style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
 A comprehensive collection of **GATE (Graduate Aptitude Test in Engineering)** preparation materials, organized for **easy navigation, quick revision, and exam-focused learning**.  
 
 This repository is aimed to help **GATE aspirants and students preparing for competitive exams (ESE, PSU, etc.)** with **concept clarity and problem-solving techniques**.
 
----
 
 ## Table of Contents
 - [What's Inside?](#whats-inside)
@@ -27,47 +26,31 @@ This repository is aimed to help **GATE aspirants and students preparing for com
 - **Practice Problems:** Topic-wise exercises to strengthen problem-solving skills.
 - **Reference Materials:** Curated resources, tips, and strategies.
 
----
-
 ## Folder Structure
 A suggested structure for your repo (you can adapt as per your subjects):
 
-GATE-Preparation-Resources/
-│
-├── Mathematics/
-│ ├── Linear_Algebra.pdf
-│ ├── Calculus/
-│ └── Notes.md
-│
-├── Computer_Science/
-│ ├── Data_Structures/
-│ ├── Algorithms/
-│ ├── Theory_of_Computation/
-│ └── PYQs/
-│
-├── General_Aptitude/
-│
-├── Formula_Sheets/
-│ ├── All_Subjects_Formula.pdf
-│
-├── PYQs/
-│ ├── 2020/
-│ ├── 2021/
-│ └── 2022/
-│
-└── README.md
+GATE-Preparation-Resources:
+1. Probability and Statistics
+2. Linear Algebra
+3. Calculus and Optimization
+4. Programming, Data Structures and Algorithms
+5. Database Management and Warehousing
+6. Machine Learning
+7. AI
+8. General_Aptitude
+9. Formula_Sheets
+Syllabus of GATE DA paper: https://github.com/Soumodip-05/GATE_DA-AI/blob/main/DA_2026_Syllabus.pdf
 
+## Previous Years Question Paper & Answer Key
+PYQs
+1. 2024
+2. 2025
 
-You can modify/add branches for your specific engineering discipline (ECE, ME, CE, EE, etc.).
-
----
 
 ## Who Can Use This?
 - **GATE aspirants** from any engineering branch.
 - **Students preparing for ESE, PSU exams**, or similar competitive tests.
 - Anyone looking for **organized and reliable study materials**.
-
----
 
 ## How To Use
 1. Clone the repository:  
@@ -88,15 +71,3 @@ If you want to add your notes, solutions, or suggest improvements:
 ## License
 This repository is shared for educational purposes.
 You may use and share the materials with proper attribution.
-
-
----
-
-### **How to Use This README**
-- Replace every `your-username/your-repo-name` with your actual GitHub username and repository name.
-- Adjust the folder structure section to match your uploaded notes.
-- Commit and push this file as `README.md` at the root of your repo.
-
----
-
-Do you also want me to **design a simple banner image (cover photo) with “GATE Preparation Resources – Notes | PYQs | Formulas”** for your repo’s top section to make it visually appealing on GitHub? Should I generate that for you?
