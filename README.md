@@ -44,7 +44,11 @@ Syllabus of GATE DA paper: https://github.com/Soumodip-05/GATE_DA-AI/blob/main/D
 ## Previous Years Question Paper & Answer Key
 PYQs
 1. 2024
-2. 2025
+   a. Question Paper: https://github.com/Soumodip-05/GATE_DA-AI/blob/main/GATE%20DA%202024%20Paper.pdf
+   b. Answer Key: https://github.com/Soumodip-05/GATE_DA-AI/blob/main/GATE%20DA%202024%20Answer%20Key.pdf
+3. 2025
+   a. Question Paper: https://github.com/Soumodip-05/GATE_DA-AI/blob/main/GATE%20DA%202025%20Paper.pdf
+   b. Answer Key: https://github.com/Soumodip-05/GATE_DA-AI/blob/main/GATE%20DA%202025%20Answer%20Key.pdf
 
 
 ## Who Can Use This?
@@ -55,7 +59,7 @@ PYQs
 ## How To Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Soumodip-05/GATE_DA-AI.git
 2. Browse by subject folders.
 3. Use formula sheets and PYQs for quick revision.
 4. Practice topic-wise problems to strengthen weak areas.
