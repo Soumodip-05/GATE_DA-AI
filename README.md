@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4f9dae94-168b-4756-a71f-fdd3abd7ed00" />
 
-# GATE Preparation Resources 📚
+# GATE DA Paper Preparation Resources 📚
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Soumodip-05/GATE_DA-AI?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Soumodip-05/GATE_DA-AI?color=blue&style=for-the-badge)
