@@ -49,10 +49,12 @@ PYQs
 1. 2024
    - [Question Paper](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/PYQs/GATE%20DA%202024%20Paper.pdf)
    - [Answer Key](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/PYQs/GATE%20DA%202024%20Answer%20Key.pdf)
-3. 2025
+2. 2025
    - [Question Paper](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/PYQs/GATE%20DA%202025%20Paper.pdf)
    - [Answer Key](https://github.com/Soumodip-05/GATE_DA-AlI/bob/main/PYQs/GATE%20DA%202025%20Answer%20Key.pdf)
-
+3. 2026
+   - [Question Paper](https://github.com/Soumodip-05/GATE_DA-AI/blob/main/PYQs/GATE%20DA%202026%20Paper.pdf)
+   - [Answer Key](https://github.com/Soumodip-05/GATE_DA-AlI/bob/main/PYQs/GATE%20DA%202026%20Answer%20Key.pdf)
 
 ## Who Can Use This?
 - **GATE aspirants** from any engineering branch.
